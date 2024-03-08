@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ea748d8c4d5f714e950e6b681bb761c, type: 3}
+  m_Name: VegetableDataSO
+  m_EditorClassIdentifier: 
+  vegetableDataList:
+  - name: Brocolli
+    type: 13
+    sprite: {fileID: 21300000, guid: 3f7b8dc2cbf43be42bf10c19371bbbe8, type: 3}
+  - name: Cabbage
+    type: 3
+    sprite: {fileID: 21300000, guid: 8182e9fe6698c594f93826f233d4305a, type: 3}
+  - name: Capsicum
+    type: 8
+    sprite: {fileID: 21300000, guid: d91ca0ae153e4a141b09a9c0ac16ceb5, type: 3}
+  - name: Carrot
+    type: 1
+    sprite: {fileID: 21300000, guid: 5c3ab764f6e217b458776b74d621f537, type: 3}
+  - name: Cauliflower
+    type: 7
+    sprite: {fileID: 21300000, guid: 062b331731b56ea4d9cad8ee7d70ee6c, type: 3}
